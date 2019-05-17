@@ -107,4 +107,4 @@ android:interpolator  设定插值器，其实就是指定的动作效果，比�
 
 
 ```
-·具体动画请查看(url)[!https://blog.csdn.net/weixin_37160260/article/details/79916058]
+·具体动画请查看 <https://blog.csdn.net/weixin_37160260/article/details/79916058>
